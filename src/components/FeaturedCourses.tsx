@@ -46,7 +46,7 @@ export const FeaturedCourses = () => {
             </div>
         </div>
         <div className="mt-20 text-center">
-            <Link href={"/courses"}
+            <Link href={"#"}
             className="px-4 py-3 rounded-full border border-neutral-600 text-shadow-violet-100 bg-black hover:bg-gray-600 transition duration-200"
             >
             View All courses
